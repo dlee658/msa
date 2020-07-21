@@ -8,6 +8,6 @@ function App() {
 
     </div>
   );
-}ss
+}
 
 export default App;
